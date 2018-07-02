@@ -8,7 +8,7 @@
     "start": "webpack-dev-server --open --config webpack.dev.js",
     "build-embedded": "webpack --config webpack.prod.js && node embed"
   },
-  "author": "unknown",
+  "author": "Greg Schlottmann",
   "license": "MIT",
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
