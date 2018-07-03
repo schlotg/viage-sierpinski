@@ -2,7 +2,7 @@
 
 A Viage implementation of the React Fiber Sierpinski demo to demostrate the Viage is fast. Viage is a modern, simple and light weight framework. You can find out more about it [here](https://github.com/schlotg/viage)
 
-To run the Viage version download the [index-embedded.html](https://github.com/schlotg/viage-sierpinski/blob/master/index-embedded.html) file and run it in the browser locally.
+To run the Viage version go [here](https://schlotg.github.io/sierpinski)
 
 To run the React Fiber version go [here](https://claudiopro.github.io/react-fiber-vs-stack-demo/fiber.html)
 
