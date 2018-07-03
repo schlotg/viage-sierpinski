@@ -9,4 +9,4 @@ To run the React Fiber version go [here](https://claudiopro.github.io/react-fibe
 To run the an Angular implementation go [here](https://gund.github.io/ng-s-triangle-demo/single/)
 
 
-The Viage version runs every bit as fast, if not faster, then the React Fiber version. But it's total size is 20kb vs React's 433Kb. The Angular version is much slower but comes in at 82kb. If you examine the amount of app specific code, it is comparable across all three frameworks. In my opinion the Viage version is the simplest of the three.
+The Viage version runs every bit as fast, if not faster, then the React Fiber version. But it's total size is 20kb vs React's 433Kb. The Angular version is much slower but comes in at 82kb. If you examine the amount of app specific code, it is comparable across all three frameworks. In my opinion the Viage version is the simplest of the three in regards to user generated code.
