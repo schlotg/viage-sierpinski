@@ -20,7 +20,7 @@ export class App extends Component {
     this.setHTML(`
       <style> body { font-family: Helvetica,Arial,sans-serif; } </style>
       <div>
-        <h1 style="border-bottom: 1px solid #ddd;">Via Performance Test</h1>
+        <h1 style="border-bottom: 1px solid #ddd;">Viage Performance Test</h1>
         <div attach="pane" style="transform-origin: 0px 0px 0px; position: absolute; left:50%"></div>
       </div
     `);
