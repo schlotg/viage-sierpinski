@@ -7,7 +7,7 @@ export class App extends Component {
   yInc = .002;
   yMax = 1.25;
   yMin = .75;
-  title = 'Via Performance Test';
+  title = 'Viage Performance Test';
 
   constructor() {
     super('app');
