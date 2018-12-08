@@ -1,6 +1,6 @@
 # Viage Sierpinski Triangle Demo
 
-This a Viage implementation of the React Fiber Sierpinski demo to demostrate that Viage is fast adn small. Viage is a modern, simple and light weight framework. You can find out more about it the [Viage Website](https://schlotg.github.io/#/home)
+This a Viage implementation of the React Fiber Sierpinski demo to demostrate that Viage is fast and small. Viage is a modern, simple and light weight framework. You can find out more about it the [Viage Website](https://schlotg.github.io/#/home)
 
 To view a running version, click here: [Running Viage Sierpinksi] (https://schlotg.github.io/sierpinski)
 
